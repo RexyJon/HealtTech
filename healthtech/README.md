@@ -3,7 +3,7 @@
 Prototipo de una app de salud para **adultos mayores de 40 años** y sus cuidadores. Reúne en una interfaz grande y clara los recordatorios de medicación, un historial de salud para el cuidador, juegos de memoria y un botón de emergencia (SOS) siempre visible.
 
 **Demo web:** https://vita-sos.vercel.app/
-**APK para Android:** en la sección [Releases](https://github.com/RexyJon/healthtech/releases) de este repositorio.
+**APK para Android:** en la sección [Releases](https://github.com/RexyJon/HealtTech/releases/tag/v1.0) de este repositorio.
 
 > **Aviso:** esto es un prototipo de interfaz con datos de ejemplo. No es una herramienta médica, no sustituye el consejo de un profesional de salud y **el botón SOS no llama ni envía alertas reales**: simula la llamada para demostrar el flujo.
 
